@@ -1,3 +1,3 @@
-def test8(Map config){
+def test8(){
         sh "echo devops is doing tests"
 }
